@@ -1,4 +1,14 @@
-### <div align="center">Hi there 👋</div>  
+### <div align="center">Hi there 👋</div>
+
+## Github Stats
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=khunbaw&show_icons=true&count_private=true&hide_border=true" align="center" />
+  </a>
+  </div>
+  <br/>
+  <div align="center">
+  <a href="https://app.daily.dev/KhunBaw"><img src="https://api.daily.dev/devcards/14fb2319835b48f5b5ecc0e168cfae3d.png?r=3nw" width="200" align="center" alt="KhunBaw's Dev Card"/></a>
+  </div>
 
 #### 🔭 Currently working with  
 
@@ -76,13 +86,3 @@
 <a href="https://github.com/khunbaw" target="_blank">
 <img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
 </div>  
-
-## Github Stats  
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=khunbaw&show_icons=true&count_private=true&hide_border=true" align="center" />
-  </a>
-  </div>
-  <br/>
-  <div align="center">
-  <a href="https://app.daily.dev/KhunBaw"><img src="https://api.daily.dev/devcards/14fb2319835b48f5b5ecc0e168cfae3d.png?r=3nw" width="200" align="center" alt="KhunBaw's Dev Card"/></a>
-  </div> 
