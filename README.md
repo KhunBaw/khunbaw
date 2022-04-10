@@ -7,7 +7,7 @@
   </div>
   <br/>
   <div align="center">
-  <a href="https://app.daily.dev/KhunBaw"><img src="https://api.daily.dev/devcards/14fb2319835b48f5b5ecc0e168cfae3d.png?r=3nw" width="200" align="center" alt="KhunBaw's Dev Card"/></a>
+  <a href="https://app.daily.dev/KhunBaw"><img src="https://api.daily.dev/devcards/14fb2319835b48f5b5ecc0e168cfae3d.png?r=o9f" width="200" align="center" alt="KhunBaw's Dev Card"/></a>
   </div>
 
 #### 🔭 Currently working with  
