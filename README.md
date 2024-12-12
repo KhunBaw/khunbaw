@@ -1,12 +1,5 @@
 ### <div align="center">Hi there 👋</div>
 
-## Github Stats
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=khunbaw&show_icons=true&count_private=true&hide_border=true" align="center" />
-  </a>
-  </div>
-  <br/>
-
 #### 🔭 Currently working with  
 
 <a href="https://flutter.dev/" title="Flutter"><img src="icons/frameworks/flutter.png" width="50" /></a>
@@ -96,6 +89,14 @@
 
 </td></tr></table>  
 
+
+## Github Stats
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=khunbaw&show_icons=true&count_private=true&hide_border=true" align="center" />
+  </a>
+  </div>
+<br/>
+  
 
 ## Connect with me  
 <div align="center">
