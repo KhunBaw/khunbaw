@@ -10,12 +10,12 @@
 #### 🔭 Currently working with  
 
 <a href="https://flutter.dev/" title="Flutter"><img src="icons/frameworks/flutter.png" width="50" /></a>
+<a href="https://bun.sh/" title="Bun.js"><img src="https://jacklehamster.github.io/bun-template/icon.png" width="50" /></a>
+<a href="https://elysiajs.com/" title="Elysiajs"><img src="https://avatars.githubusercontent.com/u/119793569?s=200&v=4" width="50" /></a>
 <a href="https://nodejs.org/" title="Node.js"><img src="icons/frameworks/nodejs.svg" width="50" /></a>
-<a href="https://vuejs.org/" title="Vue.js"><img src="icons/frameworks/vuejs.svg" width="50" /></a>
+<a href="https://nextjs.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/nextjs.png" alt="NextJS" height="50" /></a>  
 <a href="https://www.mysql.com/" title="MySQL"><img src="icons/databases/mysql.svg" width="50" /></a>
-<a href="https://www.heroku.com/" title="Heroku"><img src="icons/cloud/heroku.svg" width="50" /></a>
-<a href="https://git-scm.com/" title="Git"><img src="icons/others/git.svg" width="50" /></a>
-<a href="https://code.visualstudio.com/" title="Visual Studio Code"><img src="icons/editors/vscode.svg" width="50" /></a>  
+<a href="https://www.postgresql.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/postgresql-original-wordmark.svg" alt="PostgreSQL" height="50" /></a>  
  
 #### 🌱 Currently learning  
 <a href="https://www.docker.com/" title="Docker"><img src="icons/cloud/docker.svg" width="50" /></a>  
@@ -43,7 +43,8 @@
 
 
 ### Backend  
-<div align="center">  
+<div align="center">
+<a href="https://elysiajs.com/" title="Elysiajs"><img src="https://avatars.githubusercontent.com/u/119793569?s=200&v=4" width="50" /></a>
 <a href="https://www.cplusplus.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/cplusplus-original.svg" alt="C++" height="50" /></a>  
 <a href="https://www.javascript.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/javascript-original.svg" alt="JavaScript" height="50" /></a>  
 <a href="https://www.typescriptlang.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/typescript-original.svg" alt="TypeScript" height="50" /></a>  
@@ -72,6 +73,7 @@
 
 ### DevOps  
 <div align="center">  
+<a href="https://bun.sh/" title="Bun.js"><img src="https://jacklehamster.github.io/bun-template/icon.png" width="50" /></a>
 <a href="https://aws.amazon.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/amazonwebservices-original-wordmark.svg" alt="AWS" height="50" /></a>  
 <a href="https://www.linux.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/linux-original.svg" alt="Linux" height="50" /></a>  
 <a href="https://github.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/git-scm-icon.svg" alt="Git" height="50" /></a>  
