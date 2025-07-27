@@ -9,10 +9,11 @@
 <a href="https://nextjs.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/nextjs.png" alt="NextJS" height="50" /></a>  
 <a href="https://www.mysql.com/" title="MySQL"><img src="icons/databases/mysql.svg" width="50" /></a>
 <a href="https://www.postgresql.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/postgresql-original-wordmark.svg" alt="PostgreSQL" height="50" /></a>
-<a href="https://www.docker.com/" title="Docker"><img src="icons/cloud/docker.svg" width="50" /></a>  
+<a href="https://www.docker.com/" title="Docker"><img src="icons/cloud/docker.svg" width="50" /></a>
+<a href="https://aws.amazon.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/amazonwebservices-original-wordmark.svg" alt="AWS" height="50" /></a>  
  
 #### 🌱 Currently learning  
-<a href="https://aws.amazon.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/amazonwebservices-original-wordmark.svg" alt="AWS" height="50" /></a>  
+
 
 ## My Skill Set  
 <table><tr><td valign="top" width="33%">
