@@ -92,14 +92,6 @@
 </td></tr></table>  
 
 
-## Github Stats
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=khunbaw&show_icons=true&count_private=true&hide_border=true" align="center" />
-  </a>
-  </div>
-<br/>
-  
-
 ## Connect with me  
 <div align="center">
 <a href="https://github.com/khunbaw" target="_blank">
